@@ -1,5 +1,9 @@
 # **IntervalQuestionStat**
 
+[![CRAN
+status](https://www.r-pkg.org/badges/version/IntervalQuestionStat)](https://cran.r-project.org/package=IntervalQuestionStat)
+[![Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/IntervalQuestionStat)](https://CRAN.R-project.org/package=IntervalQuestionStat)
+
 ### Tools to Deal with Interval-Valued Responses in Questionnaires
 
 **IntervalQuestionStat** is an open source package for R.
@@ -48,3 +52,15 @@ A BibTeX entry for LaTeX users is:
     note = {R package version 0.1.0},
   }
 ```
+
+## Installation
+
+``` r
+# Install from CRAN
+install.packages("IntervalQuestionStat")
+
+# Or the development version from GitHub
+# install.packages("devtools")
+devtools::install_github("garciagarjose/IntervalQuestionStat")
+```
+
