@@ -1,8 +1,7 @@
 # **IntervalQuestionStat**
 
 [![CRAN status](https://www.r-pkg.org/badges/version/IntervalQuestionStat)](https://cran.r-project.org/package=IntervalQuestionStat)
-[![R build
-status](https://github.com/garciagarjose/IntervalQuestionStat/workflows/R-CMD-check/badge.svg)](https://github.com/garciagarjose/IntervalQuestionStat/actions)
+[![R build status](https://github.com/garciagarjose/IntervalQuestionStat/workflows/R-CMD-check/badge.svg)](https://github.com/garciagarjose/IntervalQuestionStat/actions)
 [![Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/IntervalQuestionStat)](https://CRAN.R-project.org/package=IntervalQuestionStat)
 
 ### Tools to Deal with Interval-Valued Responses in Questionnaires
