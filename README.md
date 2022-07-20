@@ -30,7 +30,7 @@ Package record on **CRAN**:  https://CRAN.R-project.org/package=IntervalQuestion
 
 * * *
 
-**Author**: Jose Garcia Garcia, with contributions from Asun Lubiano
+**Author**: Jose Garcia Garcia, with contributions from Asun Lubiano.
 
 To **cite** the **IntervalQuestionStat** package in publications please use:
 
