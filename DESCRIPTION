@@ -1,0 +1,27 @@
+Package: IntervalQuestionStat
+Title: Tools to Deal with Interval-Valued Responses in Questionnaires
+Type: Package
+Version: 0.1.0
+Date: 2022-07-04
+Authors@R: c(
+    person("Jose", "Garcia Garcia", email = "garciagarjose@uniovi.es", role = c("aut", "cre")),
+    person("Asun", "Lubiano", email = "lubiano@uniovi.es", role = "ctb"))
+Description: S4 classes, methods and functions
+  to deal with interval-valued responses in questionnaires.
+  They allow for computing any arithmetic and statistical
+  operations with interval-valued data, preparing plots,
+  transforming interval-valued responses into Likert-type
+  and visual analogue scales responses, analysing respondents
+  answers reliability and simulating interval-valued
+  responses in a questionnaire.
+License: LGPL (>= 3)
+Author: Jose Garcia Garcia [aut, cre],
+  Asun Lubiano [ctb]
+Maintainer: Jose Garcia Garcia <garciagarjose@uniovi.es>
+Encoding: UTF-8
+NeedsCompilation: no
+LazyData: true
+Depends: R (>= 3.5.0), methods, grDevices, graphics, stats
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.0
+Packaged: 2022-07-19 17:30:58 UTC; crist
