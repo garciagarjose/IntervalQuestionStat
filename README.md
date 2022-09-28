@@ -34,7 +34,7 @@ Package record on **CRAN**:  https://CRAN.R-project.org/package=IntervalQuestion
 * * *
 
 ### Authors
-Jose Garcia Garcia, with contributions from Asun Lubiano.
+José García-García, with contributions from María Asunción Lubiano.
 
 * * *
 
@@ -62,7 +62,7 @@ A BibTeX entry for LaTeX users is:
 ```
 @Manual{IntervalQuestionStatPkgR,
     title = {IntervalQuestionStat: Tools to Deal with Interval-Valued Responses in Questionnaires},
-    author = {Jose {Garcia Garcia}},
+    author = {Jos{\'e} Garc{\'i}a-Garc{\'i}a}},
     year = {2022},
     note = {R package version 0.1.0},
   }
