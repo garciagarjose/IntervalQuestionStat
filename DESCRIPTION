@@ -1,0 +1,49 @@
+Package: IntervalQuestionStat
+Title: Tools to Deal with Interval-Valued Responses in Questionnaires
+Type: Package
+Version: 0.2.0
+Authors@R: c(
+    person("José",
+           "García-García",
+           email = "garciagarjose@uniovi.es",
+           role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0003-0991-1866")),
+    person("María Asunción",
+           "Lubiano",
+           email = "lubiano@uniovi.es",
+           role = "ctb",
+           comment = c(ORCID = "0000-0002-9847-5164")))
+Description: A user-friendly toolbox for doing the statistical analysis of
+  interval-valued responses in questionnaires measuring intrinsically
+  imprecise human attributes or features (attitudes, perceptions, opinions,
+  feelings, etc.). In particular, this package provides S4 classes, methods,
+  and functions in order to compute basic arithmetic and statistical operations
+  with interval-valued data; prepare customized plots; associate each
+  interval-valued response to its equivalent Likert-type and visual analogue
+  scales answers through the minimum theta-distance and the mid-point criteria;
+  analyze the reliability of respondents' answers from the internal consistency
+  point of view by means of Cronbach's alpha coefficient; and simulate
+  interval-valued responses in this type of questionnaires. The package also
+  incorporates some real-life data that can be used to illustrate its working
+  with several non-trivial reproducible examples. The methodology used in this
+  package is based in many theoretical and applied publications from
+  SMIRE+CoDiRE (Statistical Methods with Imprecise Random Elements and
+  Comparison of Distributions of Random Elements) Research Group
+  (<https://bellman.ciencias.uniovi.es/smire+codire/>)
+  from the University of Oviedo (Spain).
+License: LGPL (>= 3)
+Author: José García-García [aut, cre] (<https://orcid.org/0000-0003-0991-1866>),
+  María Asunción Lubiano [ctb] (<https://orcid.org/0000-0002-9847-5164>)
+Maintainer: José García-García <garciagarjose@uniovi.es>
+URL: https://github.com/garciagarjose/IntervalQuestionStat/
+BugReports: https://github.com/garciagarjose/IntervalQuestionStat/issues/
+Encoding: UTF-8
+NeedsCompilation: no
+LazyData: true
+Depends: R (>= 3.5.0)
+Imports: methods, grDevices, graphics, stats
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+Suggests: 
+    testthat (>= 3.0.0), vdiffr
+Config/testthat/edition: 3
