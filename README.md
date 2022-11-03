@@ -37,7 +37,7 @@ imprecise traits from both descriptive an inferential points of view. In
 particular, it aims to provide the the following functionality:
 
 * Definition of interval-valued data objects and instances.
-* Calculation of basic operations with interval-valued data.
+* Computation of basic operations with interval-valued data.
 * Calculation of some central tendency and variation measures.
 * Visualization of interval-valued data.
 * Association of interval-valued responses and Likert-type or visual analogue answers
